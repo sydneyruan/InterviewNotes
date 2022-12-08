@@ -1,7 +1,7 @@
-# interviews
+# Interview Notes
 Coding Interview Prep, codes are in Python
 - Time Complexity
 - Space Complexity
 - Common Topics:
-- [x] Dynamic Programming
-- [x] 
+- [ ] Dynamic Programming
+- [ ] List
