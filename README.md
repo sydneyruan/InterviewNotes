@@ -3,7 +3,6 @@ Coding Interview Prep, codes are in Python
 - Time Complexity: https://www.geeksforgeeks.org/complexity-cheat-sheet-for-python-operations/
 - Space Complexity
 - Python Bitwise Operators: https://www.w3schools.com/python/python_operators.asp
-- 
 | Operator | Name | Description |
 | ----------- | ----------- | ----------- |
 | & | AND | Sets each bit to 1 if both bits are 1 |
