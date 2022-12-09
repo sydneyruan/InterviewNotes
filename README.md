@@ -14,6 +14,7 @@ Coding Interview Prep, codes are in Python
 | >> | Signed right shift | Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off |
 
 - Combination & Permutation
+
 | Order? | Repetition? | Formula |
 | ----------- | ----------- | ----------- |
 | Yes | No | P(n,r) = (n!) / ((n-r)!) |
