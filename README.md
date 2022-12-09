@@ -31,6 +31,6 @@ Coding Interview Prep, codes are in Python
 
 - Common Technical Questions:
   - Sorting
-    -[Merge Sort](https://github.com/sydneyruan/interviews/blob/main/MergeSort.py)
-        -Runtime: *O(nlogn)*
-        -Implementation:
+        - [Merge Sort](https://github.com/sydneyruan/interviews/blob/main/MergeSort.py)
+        - Runtime: *O(nlogn)*
+        - Implementation:
