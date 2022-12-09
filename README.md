@@ -24,6 +24,12 @@ Coding Interview Prep, codes are in Python
 
 
 - Common Coding Topics:
+  - Binary Search
+  - Stack, Queue & Heap
+  - OOP
+  - Sliding Window
+  - Trees
+  - Graphs
   - Dynamic Programming:
     - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
       - [Kadane’s Algo](https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d)
