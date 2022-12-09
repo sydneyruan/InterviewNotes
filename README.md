@@ -1,8 +1,8 @@
 # Interview Notes
 Coding Interview Prep, codes are in Python
-- List, Dictionary, Set Time Complexity: https://www.geeksforgeeks.org/complexity-cheat-sheet-for-python-operations/
+- [List, Dictionary, Set Time Complexity:](https://www.geeksforgeeks.org/complexity-cheat-sheet-for-python-operations/)
 - Space Complexity
-- [Python Bitwise Operators](https://www.w3schools.com/python/python_operators.asp):
+- [Python Bitwise Operators:](https://www.w3schools.com/python/python_operators.asp)
 
 | Operator | Name | Description |
 | ----------- | ----------- | ----------- |
@@ -24,10 +24,10 @@ Coding Interview Prep, codes are in Python
 
 
 - Common Coding Topics:
-  - [ ] Dynamic Programming:
-        - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-        - Kadane’s Algo: https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d
-  - [ ] List
+  - Dynamic Programming:
+  - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - Kadane’s Algo: https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d
+  - List
 
 - Common Technical Questions:
   - Sorting
