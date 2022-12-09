@@ -35,9 +35,11 @@ Coding Interview Prep, codes are in Python
 
 - Common Technical Questions:
   - Sorting
-    - [Merge Sort](https://github.com/sydneyruan/interviews/blob/main/MergeSort.py)
+    - [Merge Sort]
+      - [Implementation](https://github.com/sydneyruan/interviews/blob/main/MergeSort.py)
       - Runtime: *O(nlogn)*
-    - [Quick Sort]()
+    - [Quick Sort](https://www.geeksforgeeks.org/python-program-for-quicksort/)
+      - [Implementation](https://github.com/sydneyruan/InterviewNotes/blob/main/QuickSort.py)
       - Runtime:
 
 
