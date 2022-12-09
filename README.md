@@ -17,10 +17,10 @@ Coding Interview Prep, codes are in Python
 
 | Order? | Repetition? | Formula |
 | ----------- | ----------- | ----------- |
-| Yes | No | *P(n,r) = * $\frac{n!}{(n-r)!}$ |
-| No | No | *C(n,r) = * $\frac{n!}{r!(n-r)!}$ |
+| Yes | No | *P(n,r) =* $\frac{n!}{(n-r)!}$ |
+| No | No | *C(n,r) =* $\frac{n!}{r!(n-r)!}$ |
 | Yes | Yes | *$n^r$* |
-| No | Yes | *C(n+r-1,r) = * $\frac{n+r-1)!}{r!(n-r)!}$ |
+| No | Yes | *C(n+r-1,r) =* $\frac{n+r-1)!}{r!(n-r)!}$ |
 
 
 - Common Coding Topics:
