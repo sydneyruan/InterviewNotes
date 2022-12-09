@@ -1,6 +1,6 @@
 # Interview Notes
 Coding Interview Prep, codes are in Python
-- Time Complexity: https://www.geeksforgeeks.org/complexity-cheat-sheet-for-python-operations/
+- List, Dictionary, Set Time Complexity: https://www.geeksforgeeks.org/complexity-cheat-sheet-for-python-operations/
 - Space Complexity
 - Python Bitwise Operators: https://www.w3schools.com/python/python_operators.asp
 
@@ -12,6 +12,16 @@ Coding Interview Prep, codes are in Python
 | ~ | NOT | Inverts all the bits |
 | << | Zero fill left shift | Shift left by pushing zeros in from the right and let the leftmost bits fall off |
 | >> | Signed right shift | Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off |
+
+- Combination & Permutation
+| Order? | Repetition? | Formula |
+| ----------- | ----------- | ----------- |
+| Yes | No | P(n,r) = (n!) / ((n-r)!) |
+| No | No | C(n,r) = (n!) / (r! * (n-r)!) |
+| Yes | Yes | n^r |
+| No | Yes | C(n+r-1,r) = ((n+r-1)!) / (r! * (n-r)!) |
+
+
 - Common Topics:
 - [ ] Dynamic Programming:
 - - [ ] Maximum Subarray: https://leetcode.com/problems/maximum-subarray/
