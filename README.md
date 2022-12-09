@@ -25,12 +25,12 @@ Coding Interview Prep, codes are in Python
 
 - Common Coding Topics:
   - Dynamic Programming:
-   - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-     - [Kadane’s Algo:](https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d)
-  - List
+    - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+      - [Kadane’s Algo:](https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d)
+    - List
 
 - Common Technical Questions:
   - Sorting
-        - [Merge Sort](https://github.com/sydneyruan/interviews/blob/main/MergeSort.py)
-        - Runtime: *O(nlogn)*
-        - Implementation:
+    - [Merge Sort](https://github.com/sydneyruan/interviews/blob/main/MergeSort.py)
+      - Runtime: *O(nlogn)*
+      - Implementation:
