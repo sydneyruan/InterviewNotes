@@ -34,7 +34,7 @@ Coding Interview Prep, codes are in Python
     - [Kadane’s Algo](https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d)
       - [Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/)
       - [Maximum Subarray (Medium)](https://leetcode.com/problems/maximum-subarray/)
-    - List
+  - List
   - DFS:
   - BFS:
   - Linked List:
