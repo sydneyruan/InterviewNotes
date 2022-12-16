@@ -44,10 +44,10 @@ Coding Interview Prep, codes are in Python
   - Sorting
     - [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
       - [Implementation](https://github.com/sydneyruan/interviews/blob/main/MergeSort.py)
-      - Runtime: *O(nlogn)*
+      - Runtime: *O(nlog(n))*
     - [Quick Sort](https://www.geeksforgeeks.org/python-program-for-quicksort/)
       - [Implementation](https://github.com/sydneyruan/InterviewNotes/blob/main/QuickSort.py)
-      - Runtime:
+      - Runtime: *O(nlog(n))*
 
 
 References:
