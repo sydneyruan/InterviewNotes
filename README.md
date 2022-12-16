@@ -39,7 +39,7 @@ Coding Interview Prep, codes are in Python
   - BFS:
   - Linked List:
   - Math Theory Related:
-    - [Rotate Image](https://leetcode.com/problems/rotate-image/)
+    - Linear Algebra: [Rotate Image](https://leetcode.com/problems/rotate-image/)
 
 - Common Technical Questions:
   - Sorting
