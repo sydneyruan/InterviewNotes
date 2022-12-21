@@ -40,6 +40,8 @@ Coding Interview Prep, codes are in Python
   - Linked List:
   - Math Theory Related:
     - Linear Algebra: [Rotate Image](https://leetcode.com/problems/rotate-image/)
+  - [Memoization](https://www.geeksforgeeks.org/python-functools-lru_cache/)
+    - [Video Explanation](https://www.infoworld.com/article/3606188/speed-up-python-functions-with-memoization-and-lrucache.html)
 
 - Common Technical Questions:
   - Sorting
