@@ -1,5 +1,5 @@
 # Interview Notes
-Coding Interview Prep, codes are in Python
+Common resources for Coding Interview, codes are in Python. I hope this can become a one-stop guide.
 - [List, Dictionary, Set Time Complexity:](https://www.geeksforgeeks.org/complexity-cheat-sheet-for-python-operations/)
 - Space Complexity
 - [Python Bitwise Operators:](https://www.w3schools.com/python/python_operators.asp)
