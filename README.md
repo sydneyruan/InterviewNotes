@@ -23,7 +23,8 @@ Common resources for Coding Interview, codes are in Python. I hope this can beco
 | No | Yes | *C(n+r-1,r) =* $\frac{(n+r-1)!}{r!(n-r)!}$ |
 
 - Common Data Structures:
-  - [Priority Queues](https://www.geeksforgeeks.org/priority-queue-in-python/)
+  - [Priority Queue](https://www.geeksforgeeks.org/priority-queue-in-python/)
+  - [Deque](https://www.geeksforgeeks.org/deque-in-python/?ref=lbp)
 
 - Common Coding Topics:
   - Binary Search
